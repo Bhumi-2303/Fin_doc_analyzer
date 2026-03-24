@@ -1,0 +1,5 @@
+fin_doc/
+__pycache__/
+uploads/
+*.pyc
+.env
